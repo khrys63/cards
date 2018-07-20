@@ -10,30 +10,30 @@
       ],
       "details": [
         "Ouvrez votre organisation à des nouveaux usages et nouveaux clients grâce aux **APIs publiques**.",
-        "Dans le cadre des **partenariats** commerciaux, **clients** comme **fournisseurs**, les APIs sont le format d'échange standard.",
-        "Les **APIs** ont également vocation à être utilisées pour les **usages internes** à l'organisation."
+        "Dans le cadre des **partenariats**commerciaux,**clients**comme**fournisseurs**, les APIs sont le format d'échange standard.",
+        "Les **APIs**ont également vocation à être utilisées pour les**usages internes** à l'organisation."
       ]
     },
     "en": {
       "title": "API FOR ALL",
       "abstract": [
-        "** APIs for all uses **: internal, customers and partners, public."
+        "**APIs for all uses**: internal, customers and partners, public."
       ],
       "details": [
-        "Open your organization to new uses and new customers with ** Public APIs **.",
-        "In ** commercial ** partnerships **, ** customers ** as ** providers **, APIs are the standard exchange format.",
-        "** APIs ** are also intended to be used for ** internal uses ** of the organization."
+        "Open your organization to new uses and new customers with **Public APIs**.",
+        "In **commercial** partnerships **,**customers ** as**providers **, APIs are the standard exchange format.",
+        "**APIs** are also intended to be used for **internal uses** of the organization."
       ]
     },
     "ar": {
       "title": "API للجميع",
       "abstract": [
-        "** واجهات برمجة التطبيقات لجميع الاستخدامات **: الداخلية ، والعملاء والشركاء ، العامة."
+        "**واجهات برمجة التطبيقات لجميع الاستخدامات**: الداخلية ، والعملاء والشركاء ، العامة."
       ],
       "details": [
-        "افتح مؤسستك لاستخدامات جديدة وعملاء جدد باستخدام ** Public APIs **.",
-        "في ** الشراكات ** التجارية ** ، ** العملاء ** كموفرين ** ** ، APIs هي تنسيق تبادل قياسي.",
-        "** الغرض من APIs ** هو استخدامه أيضًا في ** الاستخدامات الداخلية للمؤسسة."
+        "افتح مؤسستك لاستخدامات جديدة وعملاء جدد باستخدام **Public APIs**.",
+        "في **الشراكات** التجارية **،** العملاء **كموفرين** ** ، APIs هي تنسيق تبادل قياسي.",
+        "**الغرض من APIs** هو استخدامه أيضًا في ** الاستخدامات الداخلية للمؤسسة."
       ]
     }
   }

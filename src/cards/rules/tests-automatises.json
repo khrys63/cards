@@ -9,31 +9,31 @@
         "Le **testing automatisé** est un prérequis non négociable au déploiement continu."
       ],
       "details": [
-        "Le **testing** automatisé permet d'assurer la **qualité** du produit **dans le temps**.",
-        "Il est un **prérequis** au déploiement continu, il permet **changements** et **déploiements fréquents**.",
-        "Le **déploiement en production** devient un événement **anecdotique** !"
+        "Le **testing**automatisé permet d'assurer la**qualité**du produit**dans le temps**.",
+        "Il est un **prérequis**au déploiement continu, il permet**changements**et**déploiements fréquents**.",
+        "Le **déploiement en production**devient un événement**anecdotique** !"
       ]
     },
     "en": {
       "title": "AUTOMATED TESTING",
       "abstract": [
-        "** automated testing ** is a non-negotiable prerequisite for continuous deployment."
+        "**automated testing** is a non-negotiable prerequisite for continuous deployment."
       ],
       "details": [
-        "Automated ** testing ** ensures ** quality ** of the product ** over time **.",
-        "It is a ** prerequisite ** to continuous deployment, it allows ** ** changes ** and ** frequent deployments **.",
-        "The ** production rollout ** becomes an ** anecdotal ** event!"
+        "Automated **testing** ensures **quality** of the product **over time**.",
+        "It is a **prerequisite** to continuous deployment, it allows **** changes** and **frequent deployments**.",
+        "The **production rollout** becomes an **anecdotal** event!"
       ]
     },
     "ar": {
       "title": "اختبار تلقائي",
       "abstract": [
-        "** اختبار تلقائي ** هو متطلب سابق غير قابل للتفاوض للنشر المستمر."
+        "**اختبار تلقائي** هو متطلب سابق غير قابل للتفاوض للنشر المستمر."
       ],
       "details": [
-        "يضمن الاختبار التلقائي ** ** ** جودة المنتج ** مع مرور الوقت **.",
-        "هو ** شرط أساسي ** للنشر المستمر ، فهو يسمح ** ** التغييرات ** و ** النشر المتكرر **.",
-        "يصبح طرح ** الإنتاج ** ** حدثًا كاذبًا **!"
+        "يضمن الاختبار التلقائي ****** جودة المنتج **مع مرور الوقت**.",
+        "هو **شرط أساسي** للنشر المستمر ، فهو يسمح **** التغييرات** و **النشر المتكرر**.",
+        "يصبح طرح **الإنتاج** **حدثًا كاذبًا**!"
       ]
     }
   }

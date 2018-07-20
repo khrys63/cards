@@ -6,37 +6,37 @@
     "fr": {
       "title": "DOULEUR",
       "abstract": [
-        "Les **tâches pénibles** sont effectuées **par l'équipe produit**.",
+        "Les **tâches pénibles**sont effectuées**par l'équipe produit**.",
         "L'automatisation en découle."
       ],
       "details": [
-        "Dans une organisation traditionnelle, le **manque de compréhension** entre les équipes est généralement lié à la distance et au **manque de communication**.",
-        "Les **membres d'une équipe produit** sont **co-responsables** et **solidaires** faces à toutes les tâches.",
-        "La **douleur** est un facteur clé de l' **amélioration continue**."
+        "Dans une organisation traditionnelle, le **manque de compréhension**entre les équipes est généralement lié à la distance et au**manque de communication**.",
+        "Les **membres d'une équipe produit**sont**co-responsables**et**solidaires** faces à toutes les tâches.",
+        "La **douleur**est un facteur clé de l'**amélioration continue**."
       ]
     },
     "en": {
       "title": "PAIN",
       "abstract": [
-        "** heavy tasks ** are performed ** by the product team **.",
+        "**heavy tasks** are performed **by the product team**.",
         "Automation follows."
       ],
       "details": [
-        "In a traditional organization, ** lack of understanding ** between teams is usually related to distance and ** lack of communication **.",
-        "The ** members of a product team ** are ** co-responsible ** and ** solidary ** for all tasks.",
-        "** Pain ** is a key factor in ** Continuous Improvement **."
+        "In a traditional organization, **lack of understanding** between teams is usually related to distance and **lack of communication**.",
+        "The **members of a product team** are **co-responsible** and **solidary** for all tasks.",
+        "**Pain** is a key factor in **Continuous Improvement**."
       ]
     },
     "ar": {
       "title": "ألم",
       "abstract": [
-        "** يتم تنفيذ المهام الصعبة ** بواسطة فريق الميزات **.",
+        "**يتم تنفيذ المهام الصعبة** بواسطة فريق الميزات **.",
         "يتبع الأتمتة."
       ],
       "details": [
-        "في التنظيم التقليدي ، ** يرتبط الافتقار إلى الفهم ** بين الفرق عادة بالمسافة و ** عدم التواصل **.",
-        "إن ** أعضاء فريق عمل الميزات ** هم ** المسؤولون ** و ** متضامنون ** لجميع المهام.",
-        "** الألم ** هو عامل رئيسي في ** التحسين المستمر **."
+        "في التنظيم التقليدي ، **يرتبط الافتقار إلى الفهم** بين الفرق عادة بالمسافة و **عدم التواصل**.",
+        "إن **أعضاء فريق عمل الميزات** هم **المسؤولون** و **متضامنون** لجميع المهام.",
+        "**الألم** هو عامل رئيسي في **التحسين المستمر**."
       ]
     }
   }

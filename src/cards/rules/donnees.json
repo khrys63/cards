@@ -9,9 +9,9 @@
         "Chaque service possède son **propre système** de stockage de données."
       ],
       "details": [
-        "Un **Data Store** n'a vocation à être **couplé** qu'avec **un seul micro-service**.",
-        "L'**accès aux données** d'un micro-service à un autre est effectué **exclusivement via son interface**.",
-        "Ce design implique la **cohérence à terme** à l'échelle de la plateforme. Elle doit être **appréhendée à tous les niveaux**, y compris UX."
+        "Un **Data Store**n'a vocation à être**couplé**qu'avec**un seul micro-service**.",
+        "L'**accès aux données**d'un micro-service à un autre est effectué**exclusivement via son interface**.",
+        "Ce design implique la **cohérence à terme**à l'échelle de la plateforme. Elle doit être**appréhendée à tous les niveaux**, y compris UX."
       ]
     },
     "en": {
@@ -20,9 +20,9 @@
         "Each service has its own ** data storage system."
       ],
       "details": [
-        "A ** Data Store ** is intended to be ** coupled ** only with ** a single micro-service **.",
-        "The ** access to data ** from one micro-service to another is done ** exclusively via its interface **.",
-        "This design implies ** consistency over time ** across the platform. It must be ** apprehended at all levels **, including UX."
+        "A **Data Store** is intended to be **coupled** only with **a single micro-service**.",
+        "The **access to data** from one micro-service to another is done **exclusively via its interface**.",
+        "This design implies **consistency over time** across the platform. It must be **apprehended at all levels**, including UX."
       ]
     },
     "ar": {
@@ -31,9 +31,9 @@
         "كل خدمة لها نظام تخزين بيانات خاص بها **."
       ],
       "details": [
-        "A ** Data Store ** يُقصد به أن يكون ** مقترنًا ** فقط ** ** ** مع خدمة مصغّرة واحدة **.",
-        "يتم الوصول ** إلى البيانات ** من خدمة مصغرة إلى أخرى ** حصريًا عبر واجهتها **.",
-        "هذا التصميم يعني ** التناسق مع مرور الوقت ** عبر النظام الأساسي. يجب أن يتم القبض ** على جميع المستويات ** ، بما في ذلك UX."
+        "A **Data Store** يُقصد به أن يكون **مقترنًا** فقط ****** مع خدمة مصغّرة واحدة **.",
+        "يتم الوصول **إلى البيانات** من خدمة مصغرة إلى أخرى **حصريًا عبر واجهتها**.",
+        "هذا التصميم يعني **التناسق مع مرور الوقت** عبر النظام الأساسي. يجب أن يتم القبض **على جميع المستويات** ، بما في ذلك UX."
       ]
     }
   }

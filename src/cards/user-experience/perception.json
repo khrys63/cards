@@ -17,23 +17,23 @@
     "en": {
       "title": "PERCEPTION",
       "abstract": [
-        "The ** experience perceived ** by the user is fundamental.",
-        "** ergonomics ** is not negotiable."
+        "The **experience perceived** by the user is fundamental.",
+        "**ergonomics** is not negotiable."
       ],
       "details": [
-        "Do not neglect the work of ** UX designers **, it is fundamental in the development of an application.",
-        "Integrate the ** feedback ** of your users, this one is essential."
+        "Do not neglect the work of **UX designers**, it is fundamental in the development of an application.",
+        "Integrate the **feedback** of your users, this one is essential."
       ]
     },
     "ar": {
       "title": "المعرفة",
       "abstract": [
-        "تعتبر تجربة ** المتصورة ** من قبل المستخدم أمرًا أساسيًا.",
-        "** بيئة العمل ** غير قابل للتفاوض."
+        "تعتبر تجربة **المتصورة** من قبل المستخدم أمرًا أساسيًا.",
+        "**بيئة العمل** غير قابل للتفاوض."
       ],
       "details": [
-        "لا تهمل عمل ** المصممين UX ** ، إنه أمر أساسي في تطوير التطبيق.",
-        "دمج ** ردود الفعل ** من المستخدمين ، وهذا واحد ضروري."
+        "لا تهمل عمل **المصممين UX** ، إنه أمر أساسي في تطوير التطبيق.",
+        "دمج **ردود الفعل** من المستخدمين ، وهذا واحد ضروري."
       ]
     }
   }

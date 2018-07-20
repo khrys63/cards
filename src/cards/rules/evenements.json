@@ -9,28 +9,28 @@
         "Le système d'informations doit être orienté **événements**."
       ],
       "details": [
-        "Les **processus** fonctionnels **orientés \"événements\"** sont **naturellement** implémentés de manière **asynchrone**.",
-        "L' **orientation événements** permet de favoriser la mise en place d'approches telles que **C**ommand **Q**uery **R**esponsibility **S**egregation (**CQRS**) et **Event Sourcing**."
+        "Les **processus**fonctionnels**orientés \"événements\"**sont**naturellement**implémentés de manière**asynchrone**.",
+        "L' **orientation événements**permet de favoriser la mise en place d'approches telles que**C**ommand**Q**uery**R**esponsibility**S**egregation (**CQRS**) et**Event Sourcing**."
       ]
     },
     "en": {
       "title": "EVENTS",
       "abstract": [
-        "The information system must be oriented ** events **."
+        "The information system must be oriented **events**."
       ],
       "details": [
-        "The ** ** event-driven ** functional ** processes ** are ** naturally ** ** asynchronously ** implemented.",
-        "The ** event orientation ** allows to favor the implementation of approaches such as ** C ** ommand ** Q ** uery ** R ** esponsibility ** S ** egregation (** CQRS ** ) and ** Event Sourcing **."
+        "The **** event-driven** functional **processes** are **naturally** **asynchronously** implemented.",
+        "The **event orientation** allows to favor the implementation of approaches such as **C** ommand **Q** uery **R** esponsibility **S** egregation (**CQRS**) and **Event Sourcing**."
       ]
     },
     "ar": {
       "title": "EVENTS",
       "abstract": [
-        "يجب توجيه نظام المعلومات ** الأحداث **."
+        "يجب توجيه نظام المعلومات **الأحداث**."
       ],
       "details": [
-        "** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** **",
-        "يسمح ** توجيه الحدث ** بتفضيل تنفيذ طرق مثل ** C ** ommand ** Q ** uery ** R ** esponsibility ** S ** egregation (** CQRS ** ) و ** Event Sourcing **."
+        "****** ****** ****** ****** ****** ****** ****** ****** ****** ****** ****** ****** ******",
+        "يسمح **توجيه الحدث** بتفضيل تنفيذ طرق مثل **C** ommand **Q** uery **R** esponsibility **S** egregation (**CQRS** ) و **Event Sourcing**."
       ]
     }
   }

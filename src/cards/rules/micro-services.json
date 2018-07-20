@@ -6,37 +6,37 @@
     "fr": {
       "title": "MICRO-SERVICES",
       "abstract": [
-        "Développez des services **autonomes** et **faiblement couplés**."
+        "Développez des services **autonomes**et**faiblement couplés**."
       ],
       "details": [
         "Le **couplage faible** doit être la norme.",
         "Chaque micro-service dispose d'une **interface clairement définie**.",
-        "Cette **interface** détermine le **couplage** entre les **micro-services**.",
-        "Le **Domain Driven Design** permet, notamment avec les **Bounded Contexts**, d'anticiper au mieux cette problématique."
+        "Cette **interface**détermine le**couplage**entre les**micro-services**.",
+        "Le **Domain Driven Design**permet, notamment avec les**Bounded Contexts**, d'anticiper au mieux cette problématique."
       ]
     },
     "en": {
       "title": "MICRO-SERVICES",
       "abstract": [
-        "Develop ** stand-alone ** and ** weakly coupled ** services."
+        "Develop **stand-alone** and **weakly coupled** services."
       ],
       "details": [
-        "** weak coupling ** must be the norm.",
-        "Each micro-service has a ** clearly defined interface **.",
-        "This ** interface ** determines the ** link ** between the ** micro-services **.",
-        "** Domain Driven Design ** allows, especially with the ** Bounded Contexts **, to anticipate this problem."
+        "**weak coupling** must be the norm.",
+        "Each micro-service has a **clearly defined interface**.",
+        "This **interface** determines the **link** between the **micro-services**.",
+        "**Domain Driven Design** allows, especially with the **Bounded Contexts**, to anticipate this problem."
       ]
     },
     "ar": {
       "title": "MICRO-SERVICES",
       "abstract": [
-        "تطوير ** قائمة بذاتها ** و ** خدمات مقترنة بشكل ضعيف **."
+        "تطوير **قائمة بذاتها** و **خدمات مقترنة بشكل ضعيف**."
       ],
       "details": [
         "** يجب أن يكون الاقتران الضعيف هو القاعدة.",
-        "لكل خدمة مصغرة واجهة ** محددة بوضوح **.",
-        "تحدد هذه الواجهة ** ** ** الرابط ** بين ** الخدمات المصغرة **.",
-        "** يسمح لك Domained Designed ** ، خصوصًا مع ** Contrast Contexts ** ، بتوقع هذه المشكلة."
+        "لكل خدمة مصغرة واجهة **محددة بوضوح**.",
+        "تحدد هذه الواجهة ****** الرابط **بين** الخدمات المصغرة **.",
+        "**يسمح لك Domained Designed** ، خصوصًا مع **Contrast Contexts** ، بتوقع هذه المشكلة."
       ]
     }
   }

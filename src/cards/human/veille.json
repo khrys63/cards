@@ -10,30 +10,30 @@
         "La veille fait partie du métier."
       ],
       "details": [
-        "L’organisation doit être un moteur de **veille** en mettant en place des dispositifs tels que la **formation continue** ou les **Universités d’entreprise**.",
-        "N'hésitez pas à les combiner avec d’autres moyens plus **informels** tels que : **Coding Dojos**, **Brown Bag Lunchs**, **Conférences** externes."
+        "L’organisation doit être un moteur de **veille**en mettant en place des dispositifs tels que la**formation continue**ou les**Universités d’entreprise**.",
+        "N'hésitez pas à les combiner avec d’autres moyens plus **informels**tels que :**Coding Dojos**,**Brown Bag Lunchs**,**Conférences** externes."
       ]
     },
     "en": {
       "title": "EVE",
       "abstract": [
-        "The organization must be a ** sleep engine **",
+        "The organization must be a **sleep engine**",
         "The day before is part of the job."
       ],
       "details": [
-        "The organization must be a ** day-care ** engine by setting up systems such as ** continuing education ** or ** business universities **.",
-        "Feel free to combine them with other more ** informal ** ways such as: ** Coding Dojos **, ** Brown Bag Lunchs **, ** External ** Conferences."
+        "The organization must be a **day-care** engine by setting up systems such as **continuing education** or **business universities**.",
+        "Feel free to combine them with other more **informal** ways such as: **Coding Dojos**, **Brown Bag Lunchs**, **External** Conferences."
       ]
     },
     "ar": {
       "title": "EVE",
       "abstract": [
-        "يجب أن تكون المنظمة ** محرك للنوم **",
+        "يجب أن تكون المنظمة **محرك للنوم**",
         "اليوم السابق هو جزء من العمل."
       ],
       "details": [
-        "يجب أن تكون المؤسسة محرّكًا للعناية اليومية ** ** من خلال إنشاء أنظمة مثل ** التعليم المستمر ** أو ** جامعات الأعمال **.",
-        "لا تتردد في الجمع بينها وبين الطرق الأخرى ** غير الرسمية ** مثل: ** Coding Dojos **، ** Brown Bag Lunchs **، ** External ** Conferences."
+        "يجب أن تكون المؤسسة محرّكًا للعناية اليومية **** من خلال إنشاء أنظمة مثل** التعليم المستمر **أو** جامعات الأعمال **.",
+        "لا تتردد في الجمع بينها وبين الطرق الأخرى **غير الرسمية** مثل: **Coding Dojos**، **Brown Bag Lunchs**، **External** Conferences."
       ]
     }
   }

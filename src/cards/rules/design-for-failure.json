@@ -11,29 +11,29 @@
       ],
       "details": [
         "Votre système **tombera en panne**, c'est inévitable. Il doit être conçu pour cela (**Design For Failure**).",
-        "Prévoir la **redondance** à tous les niveaux : **matériel** (réseau, disque, etc.), **applicatifs** (plusieurs instances des applications), **zones** géographiques, **providers**."
+        "Prévoir la **redondance**à tous les niveaux :**matériel**(réseau, disque, etc.),**applicatifs**(plusieurs instances des applications),**zones**géographiques,**providers**."
       ]
     },
     "en": {
       "title": "DESIGN FOR FAILURE",
       "abstract": [
-        "** Your system will crash! **",
+        "**Your system will crash!**",
         "Design it so that it is tolerant."
       ],
       "details": [
-        "Your ** system will crash **, it's inevitable. It must be designed for this (** Design For Failure **).",
-        "Predict ** redundancy ** at all levels: ** hardware ** (network, disk, etc.), ** applications ** (multiple instances of applications), ** ** geographies **, ** providers ** (example: AWS + OVH)."
+        "Your **system will crash**, it's inevitable. It must be designed for this (**Design For Failure**).",
+        "Predict **redundancy** at all levels: **hardware** (network, disk, etc.), **applications** (multiple instances of applications), **** geographies**, **providers** (example: AWS + OVH)."
       ]
     },
     "ar": {
       "title": "تصميم للفشل",
       "abstract": [
-        "** سوف يتلف نظامك! **",
+        "**سوف يتلف نظامك!**",
         "صممه بحيث يكون متسامحًا."
       ],
       "details": [
-        "سوف ينهار نظام ** الخاص بك ** ، إنه أمر لا مفر منه. يجب أن تكون مصممة لهذا (** تصميم للفشل **).",
-        "التنبؤ ** التكرار ** على جميع المستويات: ** الأجهزة ** (الشبكة ، القرص ، الخ ...) ، ** التطبيقات ** (حالات متعددة من التطبيقات) ، ** الجغرافية ** المناطق ، ** مزودي الخدمة ** (على سبيل المثال: AWS + OVH)."
+        "سوف ينهار نظام **الخاص بك** ، إنه أمر لا مفر منه. يجب أن تكون مصممة لهذا (**تصميم للفشل**).",
+        "التنبؤ **التكرار** على جميع المستويات: **الأجهزة** (الشبكة ، القرص ، الخ ...) ، **التطبيقات** (حالات متعددة من التطبيقات) ، **الجغرافية** المناطق ، **مزودي الخدمة** (على سبيل المثال: AWS + OVH)."
       ]
     }
   }

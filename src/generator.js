@@ -168,8 +168,8 @@ function createCardFragment(language, card, rotate = false) {
 		</a>
 		`;
 	}
-	const abstract = converter.makeHtml(card.lang[lang].abstract.join('\n\n'));
-	const details = converter.makeHtml(card.lang[lang].details.join('\n\n'));
+	const abstract = converter.makeHtml(card.lang[lang].abstract.join('\n\n')).replace(/strong>/g,"strong> ");
+	const details = converter.makeHtml(card.lang[lang].details.join('\n\n')).replace(/strong>/g,"strong> ");
 	return `
 	<a class="any-card complete-card container-fluid" href="/cards/${lang}/${card.category}/${card.id}.html" data-content="${(card.lang[lang].title + ' - ' + card.lang[lang].abstract + ' - ' + card.lang[lang].details).toLowerCase()}">
 		<div class="row card">
@@ -252,7 +252,7 @@ function basePage(language, title, content, search = true, reload = false) {
 							<input type="text" class="card-search form-control ${search ? '' : 'hide'}" placeholder="${language.menu.search}">
 						</li>
 						<div class="menuLangs"></div>
-						${langs.map(l => `<li><img width="16" height="16" src="${l.icon}"/><a href="/cards/${l.lang}/index.html">${l.lang.toUpperCase()}</a></li>`).join('\n')}
+						${langs.map(l => `<li><img width="16" height="16" src="${l.icon}"/><a href="/cards/${l.lang}/all.html">${l.lang.toUpperCase()}</a></li>`).join('\n')}
 					</ul>
 				</div>
 			</nav>

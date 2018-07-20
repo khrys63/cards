@@ -9,30 +9,30 @@
         "Créez des systèmes souples et génériques en utilisant le **feature flipping**."
       ],
       "details": [
-        "Le **feature flipping** consiste à concevoir une application comme un ensemble de **fonctionnalités** qui peuvent être **activées** ou **désactivées** à chaud, en **production**.",
-        "Dans une application **multi-tenant** , le feature flipping permet de **personnaliser** les tenants."
+        "Le **feature flipping**consiste à concevoir une application comme un ensemble de**fonctionnalités**qui peuvent être**activées**ou**désactivées**à chaud, en**production**.",
+        "Dans une application **multi-tenant**, le feature flipping permet de**personnaliser** les tenants."
       ]
     },
     "en": {
       "title": "FEATURE FLIPPING",
       "abstract": [
-        "Create flexible and generic systems using ** feature flipping **."
+        "Create flexible and generic systems using **feature flipping**."
       ],
       "details": [
-        "** feature flipping ** is about designing an app as a set of ** features ** that can be ** enabled ** or ** disabled ** hot, ** production **.",
-        "In a ** multi-tenant ** application, feature flipping allows you to ** customize ** supporters.",
-        "Feature flipping ** simplifies A / B testing **."
+        "**feature flipping** is about designing an app as a set of **features** that can be **enabled** or **disabled** hot, **production**.",
+        "In a **multi-tenant** application, feature flipping allows you to **customize** supporters.",
+        "Feature flipping **simplifies A / B testing**."
       ]
     },
     "ar": {
       "title": "ميزة التقليب",
       "abstract": [
-        "إنشاء أنظمة مرنة وعامة باستخدام ميزة ** التقليب **."
+        "إنشاء أنظمة مرنة وعامة باستخدام ميزة **التقليب**."
       ],
       "details": [
-        "** ميزة التقليب ** تدور حول تصميم التطبيق كمجموعة من ** الميزات ** التي يمكن تمكين ** ** أو ** تعطيل ** الساخنة ، ** الإنتاج **.",
-        "في تطبيق ** متعدد المستأجرين ** ، ميزة التقليب تسمح لك بتخصيص ** الداعمين **.",
-        "ميزة Le flipping ** simplifie l'A / B testing **."
+        "**ميزة التقليب** تدور حول تصميم التطبيق كمجموعة من **الميزات** التي يمكن تمكين **** أو** تعطيل **الساخنة ،** الإنتاج **.",
+        "في تطبيق **متعدد المستأجرين** ، ميزة التقليب تسمح لك بتخصيص **الداعمين**.",
+        "ميزة Le flipping **simplifie l'A / B testing**."
       ]
     }
   }

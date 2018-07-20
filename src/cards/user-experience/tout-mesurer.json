@@ -10,7 +10,7 @@
         "**Sans mesure, tout n'est qu'opinion**."
       ],
       "details": [
-        "Pensez les métriques lors du **développement** de l'application. Les **logs** doivent avoir une dimension **métier autant que technique**.",
+        "Pensez les métriques lors du **développement**de l'application. Les**logs**doivent avoir une dimension**métier autant que technique**.",
         "Ne négligez pas les **métriques de performances**, elles  sont fondamentales.",
         "L'équipe produit assure l'**exploitation** : charge à elle de rendre l'**application exploitable**."
       ]
@@ -19,24 +19,24 @@
       "title": "ALL MEASURING",
       "abstract": [
         "Everything that can be measured must be.",
-        "** Without measure, everything is only opinion **."
+        "**Without measure, everything is only opinion**."
       ],
       "details": [
-        "Think of the metrics during the ** development ** of the application. ** logs ** must have a ** business as well as technical ** dimension.",
-        "Do not neglect the ** performance metrics **, they are fundamental.",
-        "The Feature Team provides ** operation **: it is responsible for making the ** application usable **."
+        "Think of the metrics during the **development** of the application. **logs** must have a **business as well as technical** dimension.",
+        "Do not neglect the **performance metrics**, they are fundamental.",
+        "The Feature Team provides **operation**: it is responsible for making the **application usable**."
       ]
     },
     "ar": {
       "title": "كل قياس",
       "abstract": [
         "كل ما يمكن قياسه يجب أن يكون.",
-        "** بدون قياس ، كل شيء هو فقط رأي **."
+        "**بدون قياس ، كل شيء هو فقط رأي**."
       ],
       "details": [
-        "فكر في المقاييس أثناء ** تطوير ** التطبيق. ** يجب أن يكون للسجل ** ** بالإضافة إلى البعد التقني **.",
+        "فكر في المقاييس أثناء **تطوير** التطبيق. **يجب أن يكون للسجل** **بالإضافة إلى البعد التقني**.",
         "لا تهمل مقاييس الأداء ** ، فهي أساسية.",
-        "يوفر فريق الميزات ** عملية **: فهو مسؤول عن جعل ** التطبيق قابلاً للاستخدام **."
+        "يوفر فريق الميزات **عملية**: فهو مسؤول عن جعل **التطبيق قابلاً للاستخدام**."
       ]
     }
   }

@@ -17,23 +17,23 @@
     "en": {
       "title": "CORE BUSINESS",
       "abstract": [
-        "The ** core business ** should not be a hindrance to the construction of new services and applications."
+        "The **core business** should not be a hindrance to the construction of new services and applications."
       ],
       "details": [
-        "The pace of evolution and delivery of the core business must be ** compatible with the agility ** of the services that consume it.",
-        "The core business must ** expose services **.",
-        "The core business must adopt a ** Event-Driven ** principle, it reports management actions in the form of events."
+        "The pace of evolution and delivery of the core business must be **compatible with the agility** of the services that consume it.",
+        "The core business must **expose services**.",
+        "The core business must adopt a **Event-Driven** principle, it reports management actions in the form of events."
       ]
     },
     "ar": {
       "title": "الأعمال الأساسية",
       "abstract": [
-        "يجب ألا يكون النشاط الأساسي ** ** عائقاً أمام بناء خدمات وتطبيقات جديدة."
+        "يجب ألا يكون النشاط الأساسي **** عائقاً أمام بناء خدمات وتطبيقات جديدة."
       ],
       "details": [
         "يجب أن تكون سرعة تطور وتسليم الأعمال الأساسية متوافقة مع خفة الحركة ** للخدمات التي تستهلكها.",
-        "يجب أن تعرض الأعمال الأساسية ** الخدمات **.",
-        "يجب أن تتبنى الأعمال الأساسية مبدأ ** مدفوعًا بالأحداث ** ، حيث تقوم بالإبلاغ عن إجراءات الإدارة في شكل أحداث."
+        "يجب أن تعرض الأعمال الأساسية **الخدمات**.",
+        "يجب أن تتبنى الأعمال الأساسية مبدأ **مدفوعًا بالأحداث** ، حيث تقوم بالإبلاغ عن إجراءات الإدارة في شكل أحداث."
       ]
     }
   }

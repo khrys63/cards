@@ -9,16 +9,16 @@
         "Les Feature Teams ne gèrent pas l'infrastructure, elle est **fournie et maintenue par l'organisation**."
       ],
       "details": [
-        "Les problèmes d'infrastructure ne sont **pas du ressort des Equipes produit**. L'infrastructure doit leur être **fournie** et **maintenue** par un **service transverse**."
+        "Les problèmes d'infrastructure ne sont **pas du ressort des Equipes produit**. L'infrastructure doit leur être**fournie**et**maintenue**par un**service transverse**."
       ]
     },
     "en": {
       "title": "INFRASTRUCTURE",
       "abstract": [
-        "Feature Teams do not manage the infrastructure, it is ** provided and maintained by the organization **."
+        "Feature Teams do not manage the infrastructure, it is **provided and maintained by the organization**."
       ],
       "details": [
-        "Infrastructure issues are not within ** Feature Teams **. Infrastructure must be ** provided ** and ** maintained ** by a ** cross-functional ** service."
+        "Infrastructure issues are not within **Feature Teams**. Infrastructure must be **provided** and **maintained** by a **cross-functional** service."
       ]
     },
     "ar": {
@@ -27,7 +27,7 @@
         "لا تقوم الفرق المميزة بإدارة البنية الأساسية ، وإنما يتم توفيرها من قبل المنظمة **."
       ],
       "details": [
-        "مشاكل البنية التحتية ليست ضمن ** فرق العمل **. يجب توفير البنية التحتية ** ** و ** صيانتها ** عبر خدمة ** وظيفية."
+        "مشاكل البنية التحتية ليست ضمن **فرق العمل**. يجب توفير البنية التحتية **** و** صيانتها **عبر خدمة** وظيفية."
       ]
     }
   }

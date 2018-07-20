@@ -10,33 +10,33 @@
         "Les choix alternatifs doivent être étayés."
       ],
       "details": [
-        "Les **solutions propriétaires** sont un **risque** pour l'organisation qui doit être capable de reprendre la maintenance si besoin.",
+        "Les **solutions propriétaires**sont un**risque** pour l'organisation qui doit être capable de reprendre la maintenance si besoin.",
         "Rares sont les outils propriétaires qui n'ont pas d'**alternatives Open Source**.",
-        "L'organisation **bénéficie** de la **Communauté Open Source** et peut lui **reverser ses contributions**."
+        "L'organisation **bénéficie**de la**Communauté Open Source**et peut lui**reverser ses contributions**."
       ]
     },
     "en": {
       "title": "OPEN SOURCE",
       "abstract": [
-        "** Make the most of Open Source **.",
+        "**Make the most of Open Source**.",
         "Alternative choices must be supported."
       ],
       "details": [
-        "The ** proprietary solutions ** are a ** risk ** for the organization that must be able to resume maintenance if needed.",
-        "There are few proprietary tools that do not have ** open source alternatives **.",
-        "The organization ** benefits ** from the ** Open Source Community ** and can ** pay back its contributions **."
+        "The **proprietary solutions** are a **risk** for the organization that must be able to resume maintenance if needed.",
+        "There are few proprietary tools that do not have **open source alternatives**.",
+        "The organization **benefits** from the **Open Source Community** and can **pay back its contributions**."
       ]
     },
     "ar": {
       "title": "فتح المصدر",
       "abstract": [
-        "** الاستفادة القصوى من المصدر المفتوح **.",
+        "**الاستفادة القصوى من المصدر المفتوح**.",
         "يجب أن تكون الخيارات البديلة مدعومة."
       ],
       "details": [
-        "تمثل ** الحلول الخاصة ** ** ** للمؤسسات التي يجب أن تكون قادرة على استئناف الصيانة إذا لزم الأمر.",
-        "هناك عدد قليل من أدوات الملكية التي لا تحتوي على ** بدائل مفتوحة المصدر **.",
-        "تستفيد المنظمة ** من ** مجتمع المصدر المفتوح ** ويمكن ** تسديد مساهماتها **."
+        "تمثل **الحلول الخاصة** **** للمؤسسات التي يجب أن تكون قادرة على استئناف الصيانة إذا لزم الأمر.",
+        "هناك عدد قليل من أدوات الملكية التي لا تحتوي على **بدائل مفتوحة المصدر**.",
+        "تستفيد المنظمة **من** مجتمع المصدر المفتوح **ويمكن** تسديد مساهماتها **."
       ]
     }
   }

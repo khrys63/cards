@@ -6,7 +6,7 @@
     "fr": {
       "title": "KISS",
       "abstract": [
-        "**K**eep **I**t **S**imple and **S**tupid.",
+        "**K**eep**I**t**S**imple and**S**tupid.",
         "*Pourquoi faire compliqué quand on peut faire simple ?*"
       ],
       "details": [
@@ -17,22 +17,22 @@
     "en": {
       "title": "KISS",
       "abstract": [
-        "**K**eep **I**t **S**imple and **S**tupid.",
+        "**K**eep**I**t**S**imple and**S**tupid.",
         "*Why make it complicated when it can be simple ?*"
       ],
       "details": [
-        "** Avoid over-engineering **, if a \"paper\" model or a Google Form is enough to test your concept, do not go further.",
+        "**Avoid over-engineering**, if a \"paper\" model or a Google Form is enough to test your concept, do not go further.",
         "Stay simple! Both technically and functionally."
       ]
     },
     "ar": {
       "title": "قبلة",
       "abstract": [
-        "** K ** eep ** I ** t ** S ** imple و ** S ** tupid.",
+        "**K** eep **I** t **S** imple و **S** tupid.",
         "* لماذا تعقد عندما تكون بسيطة؟ *"
       ],
       "details": [
-        " ** تجنّب الإفراط في الهندسة ** ، إذا كان نموذج \"الورق\" أو نموذج Google كافٍ لاختبار مفهومك ، فلا تذهب إلى أبعد من ذلك.",
+        " **تجنّب الإفراط في الهندسة** ، إذا كان نموذج \"الورق\" أو نموذج Google كافٍ لاختبار مفهومك ، فلا تذهب إلى أبعد من ذلك.",
         "ابق بسيط! كلا من الناحية الفنية والوظيفية."
       ]
     }

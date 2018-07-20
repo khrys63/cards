@@ -17,22 +17,22 @@
     "en": {
       "title": "PRODUCTIVITY",
       "abstract": [
-        "Specify less, ** expand more **."
+        "Specify less, **expand more**."
       ],
       "details": [
-        "Limit your specifications to the bare essentials, ** focus on the \"what\" ** rather than the \"how\".",
-        "The product must be the most ** self-documented ** possible.",
+        "Limit your specifications to the bare essentials, **focus on the \"what\"** rather than the \"how\".",
+        "The product must be the most **self-documented** possible.",
         "The documentation must be versioned in the same way as the code."
       ]
     },
     "ar": {
       "title": "PRODUCTIVITY",
       "abstract": [
-        "تحديد أقل ، ** توسيع المزيد **."
+        "تحديد أقل ، **توسيع المزيد**."
       ],
       "details": [
-        "حدّد مواصفاتك إلى الأساسيات المجردة ، ** ركز على \"ماذا\" ** بدلاً من \"كيف\".",
-        "يجب أن يكون المنتج أكثر ** موثقًا ذاتيًا ** ممكن.",
+        "حدّد مواصفاتك إلى الأساسيات المجردة ، **ركز على \"ماذا\"** بدلاً من \"كيف\".",
+        "يجب أن يكون المنتج أكثر **موثقًا ذاتيًا** ممكن.",
         "يجب أن يتم إصدار الوثائق بنفس طريقة التوليف."
       ]
     }

@@ -6,7 +6,7 @@
     "fr": {
       "title": "SELF SERVICE",
       "abstract": [
-        "Utiliser une API doit être **simple** et **rapide**."
+        "Utiliser une API doit être **simple**et**rapide**."
       ],
       "details": [
         "L'utilisation des APIs doit être la plus simple possible. Pensez à l’**expérience développeur**.",
@@ -17,23 +17,23 @@
     "en": {
       "title": "SELF SERVICE",
       "abstract": [
-        "Use an API must be ** simple ** and ** fast **."
+        "Use an API must be **simple** and **fast**."
       ],
       "details": [
-        "The use of APIs should be as simple as possible. Think about the ** developer experience **.",
-        "The best solution to validate the adequacy with the need is to ** test the API quickly **: a few minutes must suffice!",
-        "The platform must offer a ** graphical interface ** to test the API simply."
+        "The use of APIs should be as simple as possible. Think about the **developer experience**.",
+        "The best solution to validate the adequacy with the need is to **test the API quickly**: a few minutes must suffice!",
+        "The platform must offer a **graphical interface** to test the API simply."
       ]
     },
     "ar": {
       "title": "خدمة ذاتية، إخدم نفسك بنفسك",
       "abstract": [
-        "يجب أن يكون استخدام واجهة برمجة التطبيقات ** بسيط ** و ** سريع **."
+        "يجب أن يكون استخدام واجهة برمجة التطبيقات **بسيط** و **سريع**."
       ],
       "details": [
-        "يجب أن يكون استخدام واجهات برمجة التطبيقات أبسط ما يمكن. فكر في تجربة مطوري ** **.",
-        "أفضل حل للتحقق من مدى كفاية الاحتياج هو ** اختبار واجهة برمجة التطبيقات بسرعة **: بضع دقائق يجب أن تكون كافية!",
-        "يجب أن توفر المنصة واجهة رسومية ** ** لاختبار واجهة برمجة التطبيقات ببساطة."
+        "يجب أن يكون استخدام واجهات برمجة التطبيقات أبسط ما يمكن. فكر في تجربة مطوري ****.",
+        "أفضل حل للتحقق من مدى كفاية الاحتياج هو **اختبار واجهة برمجة التطبيقات بسرعة**: بضع دقائق يجب أن تكون كافية!",
+        "يجب أن توفر المنصة واجهة رسومية **** لاختبار واجهة برمجة التطبيقات ببساطة."
       ]
     }
   }

@@ -9,28 +9,28 @@
         "La **couverture** est le principal indicateur objectif de qualité des tests."
       ],
       "details": [
-        "La **couverture** de code par les tests est une **bonne métrique** de la qualité du code.",
-        "C'est une **condition nécessaire** mais **pas suffisante**, la couverture d'une **mauvaise stratégie** de tests peut être élevée sans être garante de la bonne qualité du code."
+        "La **couverture**de code par les tests est une**bonne métrique** de la qualité du code.",
+        "C'est une **condition nécessaire**mais**pas suffisante**, la couverture d'une**mauvaise stratégie** de tests peut être élevée sans être garante de la bonne qualité du code."
       ]
     },
     "en": {
       "title": "BLANKET",
       "abstract": [
-        "** Cover ** is the primary objective indicator of test quality."
+        "**Cover** is the primary objective indicator of test quality."
       ],
       "details": [
-        "The ** code coverage ** by the tests is a ** good ** metric of code quality.",
-        "This is a ** necessary condition ** but ** not sufficient **, the coverage of a ** bad ** test strategy can be high without guaranteeing the good quality of the code."
+        "The **code coverage** by the tests is a **good** metric of code quality.",
+        "This is a **necessary condition** but **not sufficient**, the coverage of a **bad** test strategy can be high without guaranteeing the good quality of the code."
       ]
     },
     "ar": {
       "title": "تغطية",
       "abstract": [
-        "** الغلاف ** هو مؤشر الهدف الأساسي لجودة الاختبار."
+        "**الغلاف** هو مؤشر الهدف الأساسي لجودة الاختبار."
       ],
       "details": [
-        "تُعد تغطية ** الكود ** بواسطة الاختبارات مقياسًا ** جيدًا ** لجودة الشفرة.",
-        "هذا ** شرط ضروري ** لكن ** غير كاف ** ، يمكن أن تكون تغطية إستراتيجية اختبار ** سيئة ** عالية بدون ضمان الجودة الجيدة للشفرة."
+        "تُعد تغطية **الكود** بواسطة الاختبارات مقياسًا **جيدًا** لجودة الشفرة.",
+        "هذا **شرط ضروري** لكن **غير كاف** ، يمكن أن تكون تغطية إستراتيجية اختبار **سيئة** عالية بدون ضمان الجودة الجيدة للشفرة."
       ]
     },
     "ja": {
