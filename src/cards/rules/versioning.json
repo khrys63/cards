@@ -1,0 +1,37 @@
+{
+  "id": "versioning",
+  "golden": false,
+  "category": "rules",
+  "lang": {
+    "fr": {
+      "title": "VERSIONING",
+      "abstract": [
+        "Utilisez la gestion semantique de version."
+      ],
+      "details": [
+        "Laissez la **gestion sémantique de version**vous fournir une manière saine de publier et mettre à jour vos**composants**.",
+        "Consulez le guide sur **semver.org**."
+      ]
+    },
+    "en": {
+      "title": "VERSIONING",
+      "abstract": [
+        "Use the semantic version management."
+      ],
+      "details": [
+        "Let the **version semantic management** provide you with a healthy way to publish and update your **components**.",
+        "Consult the guide on **semver.org**."
+      ]
+    },
+    "ar": {
+      "title": "VERSIONING",
+      "abstract": [
+        "استخدام إدارة الإصدار الدلالي"
+      ],
+      "details": [
+        "السماح للإدارة الداعمة لنسخة ** ** تزودك بطريقة صحية لنشر وتحديث مكونات ** الخاصة بك **",
+        "semver.org استعمال"
+      ]
+    }
+  }
+}

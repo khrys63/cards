@@ -16,21 +16,21 @@
     "en": {
       "title": "TECHNICAL CHOICES",
       "abstract": [
-        "The **technical choices** are **made** and **assumed** by the **Feature Team**."
+        "The **technical choices** are **made** and **assumed** by the **Product Team**."
       ],
       "details": [
-        "The Feature Team must act **responsibly** to identify the choices that impact it exclusively and the choices that impact the organization.",
-        "The **choices** that **exceed the scope** of the Feature Team (eg, license, infrequent programming language) must be **validated** by the organization or by the peer convergence process ."
+        "The Product Team must act **responsibly** to identify the choices that impact them exclusively and the choices that impact the organization.",
+        "The **choices** that **exceed the scope** of the Feature Team (eg, license, infrequent programming language) must be **validated** by the organization (AE) or by the process. Peer Convergence (COTEC)."
       ]
     },
     "ar": {
       "title": "الخيارات الفنية",
       "abstract": [
-        "****** الخيارات الفنية ****** ****** ****** **من قبل** Feature Team **."
+        "******الخيارات الفنية********************من قبل** Feature Team**."
       ],
       "details": [
         "يجب أن يتصرف فريق الميزات **بمسؤولية** لتحديد الاختيارات التي تؤثر بشكل حصري والخيارات التي تؤثر على المؤسسة.",
-        "يجب أن تكون **الاختيارات** **التي تتجاوز** نطاق فريق الميزة (على سبيل المثال ، الترخيص ، لغة البرمجة النادرة) **مصادق عليها** من قبل المنظمة أو من خلال عملية التقارب بين الأقران ."
+        "يجب أن تكون **الاختيارات****التي تتجاوز** نطاق فريق الميزة (على سبيل المثال ، الترخيص ، لغة البرمجة النادرة)**مصادق عليها** من قبل المنظمة أو من خلال عملية التقارب بين الأقران ."
       ]
     }
   }

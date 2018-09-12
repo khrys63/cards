@@ -114,5 +114,5 @@ function translateRoot(lang) {
 // translateRoot('ja');
 // translateCard('ru', [...allCards]);
 // translateRoot('ru');
-// translateCard('ar', [...allCards]);
-// translateRoot('ar');
+ translateCard('ar', [...allCards]);
+ translateRoot('ar');

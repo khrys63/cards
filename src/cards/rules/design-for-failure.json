@@ -21,8 +21,8 @@
         "Design it so that it is tolerant."
       ],
       "details": [
-        "Your **system will crash**, it's inevitable. It must be designed for this (**Design For Failure**).",
-        "Predict **redundancy** at all levels: **hardware** (network, disk, etc.), **applications** (multiple instances of applications), **** geographies**, **providers** (example: AWS + OVH)."
+        "Your **system will fail**, it's inevitable. It must be designed for this (**Design For Failure**).",
+        "Predict **redundancy** at all levels: **hardware** (network, disk, etc.), **applications** (multiple instances of applications), **geographical** zones, **providers**."
       ]
     },
     "ar": {
@@ -33,7 +33,7 @@
       ],
       "details": [
         "سوف ينهار نظام **الخاص بك** ، إنه أمر لا مفر منه. يجب أن تكون مصممة لهذا (**تصميم للفشل**).",
-        "التنبؤ **التكرار** على جميع المستويات: **الأجهزة** (الشبكة ، القرص ، الخ ...) ، **التطبيقات** (حالات متعددة من التطبيقات) ، **الجغرافية** المناطق ، **مزودي الخدمة** (على سبيل المثال: AWS + OVH)."
+        "التنبؤ **التكرار**على جميع المستويات:**الأجهزة**(الشبكة ، القرص ، الخ ...) ،**التطبيقات**(حالات متعددة من التطبيقات) ،**الجغرافية**المناطق ،**مزودي الخدمة** (على سبيل المثال: AWS + OVH)."
       ]
     }
   }

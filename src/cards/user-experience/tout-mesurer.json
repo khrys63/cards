@@ -24,7 +24,7 @@
       "details": [
         "Think of the metrics during the **development** of the application. **logs** must have a **business as well as technical** dimension.",
         "Do not neglect the **performance metrics**, they are fundamental.",
-        "The Feature Team provides **operation**: it is responsible for making the **application usable**."
+        "The product team provides **operation**: it is responsible for making the **application usable**."
       ]
     },
     "ar": {
@@ -34,9 +34,9 @@
         "**بدون قياس ، كل شيء هو فقط رأي**."
       ],
       "details": [
-        "فكر في المقاييس أثناء **تطوير** التطبيق. **يجب أن يكون للسجل** **بالإضافة إلى البعد التقني**.",
+        "فكر في المقاييس أثناء **تطوير**التطبيق.**يجب أن يكون للسجل****بالإضافة إلى البعد التقني**.",
         "لا تهمل مقاييس الأداء ** ، فهي أساسية.",
-        "يوفر فريق الميزات **عملية**: فهو مسؤول عن جعل **التطبيق قابلاً للاستخدام**."
+        "يوفر فريق الميزات **عملية**: فهو مسؤول عن جعل**التطبيق قابلاً للاستخدام**."
       ]
     }
   }

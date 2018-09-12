@@ -20,8 +20,7 @@
       ],
       "details": [
         "**feature flipping** is about designing an app as a set of **features** that can be **enabled** or **disabled** hot, **production**.",
-        "In a **multi-tenant** application, feature flipping allows you to **customize** supporters.",
-        "Feature flipping **simplifies A / B testing**."
+        "In a **multi-tenant** application, feature flipping allows you to **customize** supporters."
       ]
     },
     "ar": {
@@ -30,8 +29,8 @@
         "إنشاء أنظمة مرنة وعامة باستخدام ميزة **التقليب**."
       ],
       "details": [
-        "**ميزة التقليب** تدور حول تصميم التطبيق كمجموعة من **الميزات** التي يمكن تمكين **** أو** تعطيل **الساخنة ،** الإنتاج **.",
-        "في تطبيق **متعدد المستأجرين** ، ميزة التقليب تسمح لك بتخصيص **الداعمين**.",
+        "**ميزة التقليب**تدور حول تصميم التطبيق كمجموعة من**الميزات**التي يمكن تمكين****أو** تعطيل**الساخنة ،**الإنتاج**.",
+        "في تطبيق **متعدد المستأجرين**، ميزة التقليب تسمح لك بتخصيص**الداعمين**.",
         "ميزة Le flipping **simplifie l'A / B testing**."
       ]
     }
