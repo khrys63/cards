@@ -20,7 +20,7 @@
         "Measures must be **centralized** and **accessible** to all."
       ],
       "details": [
-        "The **metrics** are **accessible** to everyone with different levels of granularity: detailed view for the relevant Feature Team, aggregations for other members of the organization.",
+        "The **metrics** are **accessible** to everyone with different levels of granularity: detailed view for the product team concerned, aggregations for the other members of the organization.",
         "Access to **metrics does not imply access to unit data**, it must be controlled to maintain confidentiality.",
         "**All environments** are affected."
       ]
@@ -28,10 +28,10 @@
     "ar": {
       "title": "METRIC",
       "abstract": [
-        "يجب أن تكون التدابير ****** و **يمكن الوصول إليها** للجميع."
+        "يجب أن تكون التدابير ******و**يمكن الوصول إليها** للجميع."
       ],
       "details": [
-        "****** **** يمكن الوصول** إلى كل شخص بمستويات مختلفة من الدقة: عرض تفصيلي لميزة الفريق ذات الصلة ، وتجمعات لأعضاء آخرين في المنظمة.",
+        "********** يمكن الوصول** إلى كل شخص بمستويات مختلفة من الدقة: عرض تفصيلي لميزة الفريق ذات الصلة ، وتجمعات لأعضاء آخرين في المنظمة.",
         "لا يعني الوصول إلى **المقاييس الوصول إلى بيانات الوحدة** ، بل يجب التحكم في الحفاظ على السرية.",
         "**تتأثر جميع البيئات**."
       ]

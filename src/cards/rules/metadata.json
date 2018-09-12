@@ -18,6 +18,7 @@
     "qualite",
     "tests-automatises",
     "niveaux-de-tests",
-    "couverture"
+    "couverture",
+    "versioning"
   ]
 }
