@@ -16,7 +16,7 @@
     "en": {
       "title": "VERSIONING",
       "abstract": [
-        "Use the semantic version management."
+        "Use semantic version management."
       ],
       "details": [
         "Let the **version semantic management** provide you with a healthy way to publish and update your **components**.",
@@ -24,13 +24,13 @@
       ]
     },
     "ar": {
-      "title": "VERSIONING",
+      "title": "الإصدار",
       "abstract": [
-        "استخدام إدارة الإصدار الدلالي"
+        "استخدام إدارة الإصدار الدلالي."
       ],
       "details": [
-        "السماح للإدارة الداعمة لنسخة ** ** تزودك بطريقة صحية لنشر وتحديث مكونات ** الخاصة بك **",
-        "semver.org استعمال"
+        "السماح للإدارة الداعمة لنسخة **** تزودك بطريقة صحية لنشر وتحديث مكونات** الخاصة بك **.",
+        "استشر الدليل على **semver.org**."
       ]
     }
   }

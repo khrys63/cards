@@ -19,6 +19,7 @@
     "tests-automatises",
     "niveaux-de-tests",
     "couverture",
-    "versioning"
+    "versioning",
+    "licencing"
   ]
 }

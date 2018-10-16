@@ -1,0 +1,40 @@
+{
+  "id": "licencing",
+  "golden": false,
+  "category": "rules",
+  "lang": {
+    "fr": {
+      "title": "LICENCE",
+      "abstract": [
+        "Les composants tiers doivent être majoritairement **gratuits**."
+      ],
+      "details": [
+        "Les solutions externes doivent avoir des coûts de licence nuls.",
+        "**Tous les environnements** sont concernés.",
+        "Il faut limiter au maximum les redevances et la redistribution de la valeur créée par **nos services**."
+      ]
+    },
+    "en": {
+      "title": "LICENCE",
+      "abstract": [
+        "Third party components must be **free**."
+      ],
+      "details": [
+        "External solutions must have zero licensing costs.",
+        "**All environments** are affected.",
+        "We must limit as much as possible the royalties and the redistribution of the value created by **our services**."
+      ]
+    },
+    "ar": {
+      "title": "الترخيص",
+      "abstract": [
+        "يجب أن تكون مكونات الطرف الثالث **مجانًا**."
+      ],
+      "details": [
+        "يجب أن يكون للحلول الخارجية تكاليف ترخيص صفر",
+        "**تتأثر جميع البيئات**",
+        "يجب أن نحدد أكبر قدر ممكن من الإتاوات وإعادة توزيع القيمة التي أنشأتها **خدماتنا**"
+      ]
+    }
+  }
+}
